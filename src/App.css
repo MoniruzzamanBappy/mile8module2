@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.abc-bappy{
+  background-color: #61dafb;
+  border: 2px solid royalblue;
+  border-radius: 30px;
+  text-align: justify;
+  margin: 20px;
+  padding: 20px;
+}
